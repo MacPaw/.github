@@ -3,7 +3,7 @@
 🙋‍♀️ MacPaw is creators of software for Apple platforms:
 * [CleanMyMac](https://macpaw.com/cleanmymac)
 * [Setapp](https://macpaw.com/setapp)
-* [Gemini](https://macpaw.com/setapp)
+* [Gemini](https://macpaw.com/gemini)
 * [Gemini Photos](https://macpaw.com/gemini-photos)
 * [ClearVPN](https://macpaw.com/clearvpn)
 * [The Unarchiver](https://macpaw.com/the-unarchiver)
