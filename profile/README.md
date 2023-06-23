@@ -11,7 +11,7 @@ By using the code provided in these repositories you agree with the following:
 
 Glory to Ukraine! 🇺🇦
 
-🙋‍♀️ MacPaw is creators of software for Apple platforms:
+🙋‍♀️ We are creators of software for Apple platforms:
 * [CleanMyMac](https://macpaw.com/cleanmymac)
 * [Setapp](https://macpaw.com/setapp)
 * [Gemini](https://macpaw.com/gemini)
@@ -20,6 +20,10 @@ Glory to Ukraine! 🇺🇦
 * [The Unarchiver](https://macpaw.com/the-unarchiver)
 
 🌈 We mostly create commercial products, but have some open source projects - check our public repos.
+
+👩‍💻 Our Publications:
+* [Our Tech Blog](https://macpaw.tech)
+* [Our Latest Researches](https://macpaw.tech/research/)
 
 <!--
 
