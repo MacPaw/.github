@@ -2,6 +2,8 @@
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
+[MacPaw Foundation](https://macpaw.foundation/) stands out for its commitment to supporting Ukraine. By providing non-lethal aid exclusively, we are making a positive impact on the lives of Ukrainians.
+
 ### Additional terms of use for users from Russia and Belarus
 
 By using the code provided in these repositories you agree with the following:
@@ -15,15 +17,16 @@ Glory to Ukraine! 🇺🇦
 * [CleanMyMac](https://macpaw.com/cleanmymac)
 * [Setapp](https://macpaw.com/setapp)
 * [Gemini](https://macpaw.com/gemini)
-* [Gemini Photos](https://macpaw.com/gemini-photos)
+* [CleanMy®Phone](https://macpaw.com/cleanmyphone)
 * [ClearVPN](https://macpaw.com/clearvpn)
+* [Moonlock](https://macpaw.com/moonlock)
 * [The Unarchiver](https://macpaw.com/the-unarchiver)
 
 🌈 We mostly create commercial products, but have some open source projects - check our public repos.
 
 👩‍💻 Our Publications:
 * [Our Tech Blog](https://macpaw.tech)
-* [Our Latest Researches](https://macpaw.tech/research/)
+* [Our Latest Researches](https://research.macpaw.com/)
 
 <!--
 
