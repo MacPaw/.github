@@ -25,7 +25,6 @@ Glory to Ukraine! 🇺🇦
 🌈 We mostly create commercial products, but have some open source projects - check our public repos.
 
 👩‍💻 Our Publications:
-* [Our Tech Blog](https://macpaw.tech)
 * [Our Latest Researches](https://research.macpaw.com/)
 
 <!--
