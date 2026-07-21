@@ -28,6 +28,9 @@ Glory to Ukraine! 🇺🇦
 * [Our Tech Blog](https://macpaw.com/news/technology)
 * [Our Latest Researches](https://research.macpaw.com/)
 
+### Developer tools
+[[CleanMyMac CLI](https://github.com/MacPaw/cleanmymac-cli)] — Terminal-first cleanup for developer Macs.
+Clean developer caches, project artifacts, analyze storage, and reclaim disk space.
 <!--
 
 **Here are some ideas to get you started:**
