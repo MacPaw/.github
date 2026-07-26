@@ -1,4 +1,5 @@
 # Security Policy
+CleanMyMac CLI is a terminal-native cleanup tool for Mac developers. It performs operations such as scan, preview, purge, and delete of build artifacts, caches, and dev-tool data. We treat preview-before-delete behavior, confirmation logic, and release integrity as security-sensitive areas.
 
 ## Reporting Security Issues
 If you believe you have found a security vulnerability in any MacPaw-owned repository, please report it to us through coordinated disclosure.
@@ -11,6 +12,7 @@ Please include as much of the information listed below as you can to help us bet
 
 - The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
 - Full paths of source file(s) related to the manifestation of the issue
+- Version (run `cleanmymac --version`), macOS version 
 - The location of the affected source code (tag/branch/commit or direct URL)
 - Any special configuration required to reproduce the issue
 - Step-by-step instructions to reproduce the issue
